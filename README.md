@@ -141,8 +141,7 @@ JSON tool-call payload 및 서버의 JSON 응답이 평문으로 노출되는 �
 ![Wireshark TCP Stream](./스크린샷/wireshark_tcp_stream_json.png)
 ```
 
-![Wireshark TCP Stream](./스크린샷/wireshark_tcp_stream_json.png)
-<img src="./스크린샷/wireshark_tcp_stream_json.png" height="300">
+<img src="./스크린샷/wireshark_tcp_stream_json.png" height="600">
 ---
 
 ## 7. 환경 이슈 및 해결
